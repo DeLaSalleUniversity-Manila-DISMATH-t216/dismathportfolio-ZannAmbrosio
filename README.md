@@ -12,12 +12,13 @@ dismathportfolio-ZannAmbrosio created by Classroom for GitHub
 - This part is really fun, because it's just like the operations in Algebra.
 - We were able to do exercises on simplifying and evaluating statements using logical equivalences, and I sort of got the hang of it.
 - We were also taught about predicate logic and quantifiers.
-- I have learned that an **Existential Quantifier** means that there exist a true value for a certain statement, while a **Universal 
-
+- I have learned that an **Existential Quantifier** means that there exist a true value in the possible values for a statement, while a **Universal Quantifier** means that the statement is true for all possible values.
 
 #Week 3
-
-
+- We were given the assignment to prove that superman does not exist.
+- We were taught about Rules of Inference
+- We tried answering different problems (ex. Problem about proving the conclusion that they will be home by sunset) using rules of inference and countercheck it with a truth table.
+- We were taught about Modus Ponens, Modus Tollens, Hyphothetical Syllogism, Disjunctive syllogism, Addition, Simplification, Conjunction, and Resolution.
 
 #Week 4
 - During the first week, I thought it will be just pure fun, but at this point, I am doubting everything I have learned about the 
