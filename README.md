@@ -1,6 +1,8 @@
 # dismathportfolio-ZannAmbrosio
 dismathportfolio-ZannAmbrosio created by Classroom for GitHub
 
+#Alec Zandra Mae Ambrosio
+
 #Week 1
 - I was introduced to a new and exciting subject, Discrete Mathematics.
 - At first I thought that this would be a great term for me, but because of DISMATH, it is now the best.
@@ -33,4 +35,10 @@ the whole statement's inverse as true. First, we have to assume that the inverse
 leads to a contradiction, thus proving the original statement true.
 
 #Week 5
-- Coming Soon...
+- We finished with methods of proof.
+- We were taught about Mathematical Induction. This one is pretty fun, but at the same time really confusing. 
+- Mathematical Induction includes two steps: 1.)**Basis Step** 2.)**Direct Proof**. With this, we must first show that the statement is true by trying it on to the first value or the first perimeter of the statement. Then, if proven, we must do a direct proof. We then assume P(k) as true, then show P(k+1) is true as well to prove that the whole statement is true for all values.
+- We were also taught about Recursive/Inductive definition, which is not a proof but only a definition.
+
+#Week 6
+-Coming soon...
