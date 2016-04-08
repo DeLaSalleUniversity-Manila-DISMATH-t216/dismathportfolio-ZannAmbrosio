@@ -158,9 +158,6 @@ leads to a contradiction, thus proving the original statement true.
     - Symmetric Closure: add arcs in opposite direction
     - Transitive Closure: if there is a path from a to b, add an arc from a to b.
 - Equivalence Relations
-    - A relation on S tthat satisfies that following properties:
-        1. Reflexive: Forallx∈S,x∼x.
-        2. Symmetric: Forallx,y∈S,x∼yimpliesy∼x.
-        3. Transitive: For all x,y,z ∈ S, x ∼ y and y ∼ z implies x ∼ z.
+    - A relation is considered an equivalence relation if it is symmetric, transitive and reflexive.
 - Partial Orderings
     - A relation R on a set S is called a partial order if it is reflexive, antisymmetric and transitive.
