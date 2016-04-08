@@ -132,11 +132,32 @@ leads to a contradiction, thus proving the original statement true.
 
 #Reading Assignments
 - Tree Traversal
+    - The process of visiting every element in a tree, exactly once.
 - Spanning Trees
+    - A connected subgraph in which there are no cycles.
+    - A tree that contains every vertex of a certain graph.
 - Relations and Their Properties
+    - Reflexive Property: A relation is reflexive if every element in G is connected to itself. Must contain pairs (a, a) or (b, b).
+    - Symmetric Property: A relation is symmetric if a is related to b as b is related to a. Must contain pairs (a, b) and (b,a).
+    - Transitive Property: A relation is transitive if it contains pairs (a, b), (b, c), and (a, c) 
 - N-ary relations and applications
+    - An n-ary relation involves n sets and can be described by a set of n-tuples. 
+    - N-ary relations can also be applied to databases. 
 - Representing Relations
+    - One can represent a relation by:
+        1. Ordered Pairs
+        2. Tables
+        3. Graphs
+        4. Mapping
 - Closure of Relations
+    - The closure of a relation R with respect to property P is the relation obtained by adding the minimum number of ordered pairs to R to obtain property P.
+    - Reflexive Closure: add loops
+    - Symmetric Closure: add arcs in opposite direction
+    - Transitive Closure: if there is a path from a to b, add an arc from a to b.
 - Equivalence Relations
+    - A relation on S tthat satisfies that following properties:
+        1. Reflexive: Forallx∈S,x∼x.
+        2. Symmetric: Forallx,y∈S,x∼yimpliesy∼x.
+        3. Transitive: For all x,y,z ∈ S, x ∼ y and y ∼ z implies x ∼ z.
 - Partial Orderings
-
+    - A relation R on a set S is called a partial order if it is reflexive, antisymmetric and transitive.
