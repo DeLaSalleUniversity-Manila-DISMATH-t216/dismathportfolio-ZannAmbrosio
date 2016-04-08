@@ -1,6 +1,9 @@
 # dismathportfolio-ZannAmbrosio
 dismathportfolio-ZannAmbrosio created by Classroom for GitHub
 
+Alec Zandra Mae H. Ambrosio 
+DISMATH - EL
+
 #Week 1 (Orientation + Introduction to DISMATH)
 - I was introduced to a new and exciting subject, Discrete Mathematics.
 - At first I thought that this would be a great term for me, but because of DISMATH, it is now the best.
